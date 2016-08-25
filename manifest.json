@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "Animal Crossing Version Search",
+  "version": "1.0",
+  
+  "description": "Makes searching for info on specific versions of Animal Crossing easier, and allows for user-defined custom search parameters.",
+  "icons": {},
+
+  "browser_action": {
+    "default_icon": "leaf.png",
+    "default_popup": "popup.html",
+    "default_title": "Eh, wot?"
+  },
+  
+  "author": "pbandjazz",
+  "automation": ...,
+  "background": {
+    "persistent": false
+  },
+  "background_page": ...,
+  ""
+  "ominibox":
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
